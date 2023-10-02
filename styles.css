@@ -1,2 +1,8 @@
-
 /* Your CSS Code here. */
+.card-header{
+	background-color:#f7f7f7;
+}
+.card2{
+	border-bottom:1px solid black;
+	
+}
